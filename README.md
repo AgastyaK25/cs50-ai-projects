@@ -50,7 +50,7 @@ cs50-ai-projects/
 
 ## Running the Projects
 
-1. Install Python 3.
+1. Install Python 3 (some project files require pygame support).
 2. Clone the repository:
 
    ```
